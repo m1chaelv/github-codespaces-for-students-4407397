@@ -1,6 +1,6 @@
 {
-    "build":{
-        "dockerfile":"Dockerfile"
+    "build": {
+        "dockerfile": "Dockerfile"
     },
     "updateContentCommand": "npm install",
     "postAttachCommand": "npm start",
